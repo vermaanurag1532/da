@@ -9,7 +9,7 @@ export const useSocket = () => {
 };
 
 export const SocketProvider = (props) => {
-  const socket = useMemo(() => io("http://localhost:5015/"), []);
+  const socket = useMemo(() => io("https://sea-turtle-app-m9phn.ondigitalocean.app/"), []);
 
   return (
     <SocketContext.Provider value={socket}>
