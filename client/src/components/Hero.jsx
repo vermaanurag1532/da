@@ -1,6 +1,7 @@
 import React from "react";
-import image from "../images/heroimg.jpg";
+import image from "../images/verma.jpg";
 import "../styles/hero.css";
+import '../../../client/src/components/Hero.css'
 
 const Hero = () => {
   return (
@@ -16,6 +17,7 @@ const Hero = () => {
       </div>
       <div className="hero-img">
         <img
+          className='services'
           src={image}
           alt="hero"
         />

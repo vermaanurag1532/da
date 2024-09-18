@@ -1,5 +1,6 @@
 import React from "react";
-import image from "../images/aboutimg.jpg";
+import image from "../images/verma.jpg";
+import '../../../client/src/components/Hero.css'
 
 const AboutUs = () => {
   return (
@@ -9,6 +10,7 @@ const AboutUs = () => {
         <div className="about">
           <div className="hero-img">
             <img
+              className="services"
               src={image}
               alt="hero"
             />
