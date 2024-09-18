@@ -15,13 +15,7 @@ const AboutUs = () => {
           </div>
           <div className="hero-content">
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Quibusdam tenetur doloremque molestias repellat minus asperiores
-              in aperiam dolor, quaerat praesentium. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Voluptatibus, repudiandae! Lorem
-              ipsum dolor sit amet consectetur adipisicing elit. Provident
-              quibusdam doloremque ex? Officia atque ab dolore? Tempore totam
-              non ea!
+            we are revolutionizing the future of healthcare through innovation, automation, and cutting-edge technology. Our mission is to enhance patient care, streamline hospital operations, and empower medical professionals by integrating autonomous robotics, AI, and advanced digital solutions into everyday healthcare workflows.
             </p>
           </div>
         </div>
